@@ -14,7 +14,7 @@
 ## 🌟 Featured Project
 
 - [bookhive-frontend](https://github.com/ozgemelteminan/bookhive-frontend)  
-  <sub>Your project description goes here! (Add a short summary to let visitors know what makes it cool.)</sub>
+  <sub>Your project description goes here! </sub>
 
 ---
 
