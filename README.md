@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Özge Meltem İnan 👋
+
+🎓 **Computer Engineering Student** at İstanbul Bilgi University
+
+---
+
+## 🚀 Top Skills & Technologies
+
+- **Languages:** Python, JavaScript, Java, C++, .NET
+- **Frameworks:** React
+
+---
+
+## 🌟 Featured Project
+
+- [bookhive-frontend](https://github.com/ozgemelteminan/bookhive-frontend)  
+  <sub>Your project description goes here! (Add a short summary to let visitors know what makes it cool.)</sub>
+
+---
+
+## 📚 About Me
 
 <!--
-**ozgemelteminan/ozgemelteminan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✍️ Write a short bio or tagline here. (e.g., Passionate about building impactful software and always eager to learn.)
+-->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌐 Connect with Me
+
+<!--
+Add your LinkedIn, Twitter, personal website, or other social links here.
+Example:
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+-->
+
+---
+
+## 🎉 Fun Fact
+
+<!--
+Share a fun fact, hobby, or personal touch here!
+Example: "I love hiking and exploring new coffee shops."
 -->
