@@ -35,11 +35,3 @@ Example:
 - [Twitter](https://twitter.com/yourhandle)
 -->
 
----
-
-## 🎉 Fun Fact
-
-<!--
-Share a fun fact, hobby, or personal touch here!
-Example: "I love hiking and exploring new coffee shops."
--->
