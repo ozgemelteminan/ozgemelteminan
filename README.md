@@ -20,10 +20,5 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sozgemelteminan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgemelteminan&layout=compact&theme=radical)
-
-</div>
-
+![Most Used Language](https://img.shields.io/github/languages/top/ozgemelteminan/jingly-learn-game?style=for-the-badge) 
+![GitHub Activity](https://img.shields.io/github/last-commit/ozgemelteminan/jingly-learn-game?style=for-the-badge)
