@@ -20,5 +20,5 @@
 
 ## 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ozgemelteminan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgemelteminan&layout=compact&theme=radical)
+| ![Stats](https://github-readme-stats.vercel.app/api?username=ozgemelteminan&show_icons=true&theme=radical&card_width=450) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgemelteminan&layout=compact&theme=radical&card_width=300) |
+| --- | --- |
