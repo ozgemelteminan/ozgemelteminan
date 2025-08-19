@@ -1,6 +1,6 @@
 # Hi, I'm Özge 👋
 
-💬 I'm a 3rd-year Computer Engineering student at Izmir University of Economics  
+💬 I'm a 3rd-year Computer Engineering student at Istanbul Bilgi University.
 
 ---
 
@@ -21,6 +21,5 @@
 ## 📊 GitHub Stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ozgemelteminan&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgemelteminan&layout=compact&theme=radical)
 
