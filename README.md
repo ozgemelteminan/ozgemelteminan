@@ -1,37 +1,26 @@
-## Hi there 👋
-# Hi there, I'm Özge Meltem İnan 👋
+# Hi, I'm Özge 👋
 
-🎓 **Computer Engineering Student** at İstanbul Bilgi University
-
----
-
-## 🚀 Top Skills & Technologies
-
-- **Languages:** Python, JavaScript, Java, C++, .NET
-- **Frameworks:** React
+💬 I'm a 3rd-year Computer Engineering student at Izmir University of Economics  
 
 ---
 
-## 🌟 Featured Project
-
-- [bookhive-frontend](https://github.com/ozgemelteminan/bookhive-frontend)  
-  <sub>Your project description goes here! (Add a short summary to let visitors know what makes it cool.)</sub>
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 📚 About Me
+## 📊 GitHub Stats:
 
-<!--
-✍️ Write a short bio or tagline here. (e.g., Passionate about building impactful software and always eager to learn.)
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=ozgemelteminan&show_icons=true&theme=radical)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgemelteminan&layout=compact&theme=radical)
 
-## 🌐 Connect with Me
-
-<!--
-Add your LinkedIn, Twitter, personal website, or other social links here.
-Example:
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
--->
