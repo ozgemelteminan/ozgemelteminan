@@ -1,6 +1,6 @@
 # Hi, I'm Özge 👋
 
-💬 I'm a 3rd-year Computer Engineering student at Istanbul Bilgi University.
+💬 3rd-year Computer Engineering student at Istanbul Bilgi University.
 
 ---
 
